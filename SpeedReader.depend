@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1420445775 source:/Users/pouiscakes/Documents/Code/SpeedReader/main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
